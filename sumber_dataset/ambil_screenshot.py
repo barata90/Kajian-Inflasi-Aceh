@@ -18,7 +18,6 @@ dan ss/<kode>.txt (keterangan gambar). Ringkasan semua sumber ditulis ke ss/lapo
 """
 from __future__ import annotations
 
-import csv
 import json
 import re
 import subprocess
@@ -89,11 +88,40 @@ class Browser:
         return self.page
 
 
+def bersihkan_layar(page) -> None:
+    """Tutup pop-up pengumuman (mis. Maklumat Pelayanan BPS Aceh) dan menu yang terbuka karena kursor."""
+    for _ in range(3):
+        ditutup = False
+        for nama in ("Tutup", "Close", "Tutup Pengumuman"):
+            try:
+                tombol = page.get_by_role("button", name=nama, exact=True)
+                for i in range(tombol.count()):
+                    if tombol.nth(i).is_visible():
+                        tombol.nth(i).click(timeout=2_000)
+                        ditutup = True
+            except Exception:
+                pass
+        try:
+            page.keyboard.press("Escape")
+        except Exception:
+            pass
+        if not ditutup:
+            break
+        time.sleep(1)
+    try:
+        vp = page.viewport_size or {"width": 1440, "height": 900}
+        page.mouse.move(vp["width"] - 10, vp["height"] - 10)
+    except Exception:
+        pass
+    time.sleep(1.5)
+
+
 def simpan(t: dict, page, mode: str, png: Path) -> dict | None:
     judul = page.title()
     if not judul.strip() or page.url in ("", "about:blank"):
         print("   TIDAK disimpan: halaman kosong (judul/URL kosong). Ulangi untuk kode ini.")
         return None
+    bersihkan_layar(page)
     page.screenshot(path=str(png), full_page=False)
     info = {
         "kode": t["kode"], "mode": mode, "url_katalog": t["url"], "url_akhir": page.url,
@@ -186,16 +214,7 @@ def main() -> None:
         except Exception:
             pass
 
-    # Ringkasan seluruh sumber
-    with open(SS / "laporan_screenshot.csv", "w", newline="", encoding="utf-8") as fh:
-        w = csv.writer(fh)
-        w.writerow(["kode", "status_katalog", "ada_screenshot", "judul_cocok", "url_akhir", "judul_halaman"])
-        for t in tabel:
-            j = SS / f"{t['kode']}.json"
-            info = json.loads(j.read_text()) if j.exists() else {}
-            w.writerow([t["kode"], t["status"], (SS / f"{t['kode']}.png").exists(),
-                        info.get("judul_cocok", ""), info.get("url_akhir", ""), info.get("judul_halaman", "")])
-    print("Ringkasan: ss/laporan_screenshot.csv")
+    # Ringkasan ss/laporan_screenshot.csv ditulis oleh buat_dokumen.py.
     subprocess.run([sys.executable, str(HERE / "buat_dokumen.py")], check=True)
 
 

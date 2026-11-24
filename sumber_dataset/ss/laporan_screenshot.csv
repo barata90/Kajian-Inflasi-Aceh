@@ -1,75 +1,75 @@
-kode,status_katalog,ada_screenshot,judul_cocok,url_akhir,judul_halaman
-IHK150,terverifikasi,True,,,
-IHK-K01,terverifikasi,True,,,
-IHK-K02,terverifikasi,True,,,
-IHK-K03,terverifikasi,True,,,
-IHK-K04,terverifikasi,True,,,
-IHK-K05,terverifikasi,True,,,
-IHK-K06,terverifikasi,True,,,
-IHK-K07,terverifikasi,True,,,
-IHK-K08,terverifikasi,True,,,
-IHK-K09,terverifikasi,True,,,
-IHK-K10,terverifikasi,True,,,
-IHK-K11,terverifikasi,True,,,
-YTD-K02,terverifikasi,True,,,
-YTD-K03,terverifikasi,True,,,
-YTD-K04,terverifikasi,True,,,
-YTD-K05,terverifikasi,True,,,
-YTD-K06,terverifikasi,True,,,
-YTD-K07,terverifikasi,True,,,
-YTD-K08,terverifikasi,True,,,
-YTD-K09,terverifikasi,True,,,
-YTD-K10,terverifikasi,True,,,
-YTD-K11,terverifikasi,True,,,
-YOY-K01,terverifikasi,True,,,
-YOY-K02,terverifikasi,True,,,
-YOY-K03,terverifikasi,True,,,
-YOY-K04,terverifikasi,True,,,
-YOY-K05,terverifikasi,True,,,
-YOY-K06,terverifikasi,True,,,
-YOY-K07,terverifikasi,True,,,
-YOY-K08,terverifikasi,True,,,
-YOY-K09,terverifikasi,True,,,
-YOY-K10,terverifikasi,True,,,
-YOY-K11,terverifikasi,True,,,
-FIES,terverifikasi,True,,,
-POU,terverifikasi,True,,,
-KON-PADI,terverifikasi,True,,,
-KON-UMBI,terverifikasi,True,,,
-KON-IKAN,terverifikasi,True,,,
-KON-DAGING,terverifikasi,True,,,
-KON-TELUR,terverifikasi,True,,,
-KON-SAYUR,terverifikasi,True,,,
-KON-KACANG,terverifikasi,True,,,
-KON-BUAH,terverifikasi,True,,,
-KON-MINYAK,terverifikasi,True,,,
-KON-MINUMAN,terverifikasi,True,,,
-KON-LAINNYA,terverifikasi,True,,,
-KON-JADI,terverifikasi,True,,,
-KON25-IKAN,terverifikasi,True,,,
-KON25-DAGING,terverifikasi,True,,,
-KON25-TELUR,terverifikasi,True,,,
-KON25-SAYUR,terverifikasi,True,,,
-KON25-BUAH,terverifikasi,True,,,
-PEN-PADI,terverifikasi,True,,,
-PEN-UMBI,terverifikasi,True,,,
-PEN-IKAN,terverifikasi,True,,,
-PEN-DAGING,terverifikasi,True,,,
-PEN-TELUR,terverifikasi,True,,,
-PEN-SAYUR,terverifikasi,True,,,
-PEN-KACANG,terverifikasi,True,,,
-PEN-BUAH,terverifikasi,True,,,
-PEN-MINYAK,terverifikasi,True,,,
-PEN-MINUMAN,terverifikasi,True,,,
-PEN-BUMBU,terverifikasi,True,,,
-PEN-JADI,terverifikasi,True,,,
-PEN25-IKAN,terverifikasi,True,,,
-PEN25-DAGING,terverifikasi,True,,,
-PEN25-TELUR,terverifikasi,True,,,
-PEN25-SAYUR,terverifikasi,True,,,
-PEN25-BUAH,terverifikasi,True,,,
-TPT-ACEH,terverifikasi,True,,,
-KONPEN-ACEH,terverifikasi,True,True,https://www.bps.go.id/id/statistics-table/1/MjE0NCMx/rata-rata-konsumsi-dan-pengeluaran-perkapita-seminggu--menurut-komoditi-makanan--dan-golongan-pengeluaran-per-kapita-seminggu-di-provinsi-aceh--2018-2025.html,"Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Aceh, 2018-2025 - Tabel Statistik - Badan Pusat Statistik"
-DJPK-APBD,terverifikasi,True,False,https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2025&provinsi=01&pemda=12,Portal Data SIKD
-DJPK-TKDD,terverifikasi,True,False,https://djpk.kemenkeu.go.id/portal/data/tkdd?tahun=2025&provinsi=01&pemda=12,Portal Data SIKD
-DJPK-LOG,terverifikasi,True,False,https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2016&provinsi=26&pemda=03,Portal Data SIKD
+kode,status_katalog,ada_screenshot,judul_cocok,waktu_akses,url_akhir,judul_halaman
+IHK150,terverifikasi,True,True,24-11-2026 17:30,https://www.bps.go.id/id/statistics-table/2/MjI0NSMy/indeks-harga-konsumen-150-kabupaten-kota-2022-100.html,Indeks Harga Konsumen 150 Kabupaten/Kota (2022=100) - Tabel Statistik - Badan Pusat Statistik
+IHK-K01,terverifikasi,True,True,24-11-2026 17:30,https://www.bps.go.id/id/statistics-table/2/MjIxMiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html,"Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau - Tabel Statistik - Badan Pusat Statistik"
+IHK-K02,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIxMyMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html,Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki - Tabel Statistik - Badan Pusat Statistik
+IHK-K03,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIxNCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html,"Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga - Tabel Statistik - Badan Pusat Statistik"
+IHK-K04,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIxNSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html,"Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga - Tabel Statistik - Badan Pusat Statistik"
+IHK-K05,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIxNiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html,Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan - Tabel Statistik - Badan Pusat Statistik
+IHK-K06,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIxNyMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html,Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi - Tabel Statistik - Badan Pusat Statistik
+IHK-K07,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIxOCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html,"Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan - Tabel Statistik - Badan Pusat Statistik"
+IHK-K08,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIxOSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html,"Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya - Tabel Statistik - Badan Pusat Statistik"
+IHK-K09,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIyMCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html,Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan - Tabel Statistik - Badan Pusat Statistik
+IHK-K10,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIyMSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html,Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran - Tabel Statistik - Badan Pusat Statistik
+IHK-K11,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIyMiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html,Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya - Tabel Statistik - Badan Pusat Statistik
+YTD-K02,terverifikasi,True,True,24-11-2026 17:31,https://www.bps.go.id/id/statistics-table/2/MjIzNSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html,Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki - Tabel Statistik - Badan Pusat Statistik
+YTD-K03,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjIzNiMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html,"Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga - Tabel Statistik - Badan Pusat Statistik"
+YTD-K04,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjIzNyMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html,"Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga - Tabel Statistik - Badan Pusat Statistik"
+YTD-K05,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjIzOCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html,Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan - Tabel Statistik - Badan Pusat Statistik
+YTD-K06,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjIzOSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html,Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi - Tabel Statistik - Badan Pusat Statistik
+YTD-K07,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjI0MCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html,"Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan - Tabel Statistik - Badan Pusat Statistik"
+YTD-K08,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjI0MSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html,"Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya - Tabel Statistik - Badan Pusat Statistik"
+YTD-K09,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjI0MiMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html,Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan - Tabel Statistik - Badan Pusat Statistik
+YTD-K10,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjI0MyMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html,Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran - Tabel Statistik - Badan Pusat Statistik
+YTD-K11,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjI0NCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html,Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya - Tabel Statistik - Badan Pusat Statistik
+YOY-K01,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjI1MCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html,"Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau - Tabel Statistik - Badan Pusat Statistik"
+YOY-K02,terverifikasi,True,True,24-11-2026 17:32,https://www.bps.go.id/id/statistics-table/2/MjI1MSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html,Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki - Tabel Statistik - Badan Pusat Statistik
+YOY-K03,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1MiMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html,"Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga - Tabel Statistik - Badan Pusat Statistik"
+YOY-K04,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1MyMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html,"Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga - Tabel Statistik - Badan Pusat Statistik"
+YOY-K05,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1NCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html,Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan - Tabel Statistik - Badan Pusat Statistik
+YOY-K06,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1NSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html,Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi - Tabel Statistik - Badan Pusat Statistik
+YOY-K07,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1NiMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html,"Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan - Tabel Statistik - Badan Pusat Statistik"
+YOY-K08,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1NyMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html,"Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya - Tabel Statistik - Badan Pusat Statistik"
+YOY-K09,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1OCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html,Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan - Tabel Statistik - Badan Pusat Statistik
+YOY-K10,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI1OSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html,Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran - Tabel Statistik - Badan Pusat Statistik
+YOY-K11,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI2MCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html,Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya - Tabel Statistik - Badan Pusat Statistik
+FIES,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MTQ3NCMy/prevalensi-penduduk-dengan-kerawanan-pangan-sedang-atau-berat-berdasarkan-pada-skala-pengalaman-kerawanan-pangan.html,"Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan - Tabel Statistik - Badan Pusat Statistik"
+POU,terverifikasi,True,True,24-11-2026 17:33,https://www.bps.go.id/id/statistics-table/2/MjI2OSMy/prevalensi-ketidakcukupan-konsumsi-pangan-persen-per-kabupaten-kota.html,Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-PADI,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjA5NCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-padi-padian-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-UMBI,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjA5NSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-umbi-umbian-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-IKAN,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjA5NiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-DAGING,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjA5NyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-TELUR,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjA5OSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-SAYUR,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjEwMCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-KACANG,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjEwMSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-kacang-kacangan-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-BUAH,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjEwMiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-MINYAK,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjEwMyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-MINUMAN,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjEwNCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-bahan-minuman-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-LAINNYA,terverifikasi,True,True,24-11-2026 17:34,https://www.bps.go.id/id/statistics-table/2/MjEwNiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-bahan-makanan-lainnya-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON-JADI,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjEwNyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-makanan-dan-minuman-jadi-per-kabupaten-kota.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+KON25-IKAN,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjU1MCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota-komoditas-2025.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+KON25-DAGING,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjU1MiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota-komoditas-2025.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+KON25-TELUR,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjU1NCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota-komoditas-2025.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+KON25-SAYUR,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjU1NiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota-komoditas-2025.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+KON25-BUAH,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjU1OCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota-komoditas-2025.html,Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+PEN-PADI,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjEwOSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-padi-padian-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-UMBI,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjExMCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-umbi-umbian-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-IKAN,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjExMSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-DAGING,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjExMyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-TELUR,terverifikasi,True,True,24-11-2026 17:35,https://www.bps.go.id/id/statistics-table/2/MjExNSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-SAYUR,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjExNiMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-KACANG,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjExNyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-kacang-kacangan-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-BUAH,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjExOCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-MINYAK,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjExOSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-MINUMAN,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjEyMCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-bahan-minuman-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-BUMBU,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjEyMiMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-bumbu-bumbuan-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Bumbu-Bumbuan Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN-JADI,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjEyMyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-makanan-minuman-jadi-per-kabupaten-kota.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Makanan Minuman Jadi Per Kabupaten/kota - Tabel Statistik - Badan Pusat Statistik
+PEN25-IKAN,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjU1MSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota-komoditas-2025.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+PEN25-DAGING,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjU1MyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota-komoditas-2025.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+PEN25-TELUR,terverifikasi,True,True,24-11-2026 17:36,https://www.bps.go.id/id/statistics-table/2/MjU1NSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota-komoditas-2025.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+PEN25-SAYUR,terverifikasi,True,True,24-11-2026 17:37,https://www.bps.go.id/id/statistics-table/2/MjU1NyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota-komoditas-2025.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+PEN25-BUAH,terverifikasi,True,True,24-11-2026 17:37,https://www.bps.go.id/id/statistics-table/2/MjU1OSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota-komoditas-2025.html,Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/Kota-Komoditas 2025 - Tabel Statistik - Badan Pusat Statistik
+TPT-ACEH,terverifikasi,True,True,24-11-2026 17:37,https://aceh.bps.go.id/id/statistics-table/3/V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==/tingkat-pengangguran-terbuka--tpt--dan-tingkat-partisipasi-angkatan-kerja--tpak--menurut-kabupaten-kota-di-provinsi-aceh.html?year=2025,"Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten/Kota di Provinsi Aceh, 2025 - Tabel Statistik - Badan Pusat Statistik Provinsi Aceh"
+KONPEN-ACEH,terverifikasi,True,True,24-11-2026 18:04,https://www.bps.go.id/id/statistics-table/1/MjE0NCMx/rata-rata-konsumsi-dan-pengeluaran-perkapita-seminggu--menurut-komoditi-makanan--dan-golongan-pengeluaran-per-kapita-seminggu-di-provinsi-aceh--2018-2025.html,"Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Aceh, 2018-2025 - Tabel Statistik - Badan Pusat Statistik"
+DJPK-APBD,terverifikasi,True,True,24-11-2026 17:47,https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2025&provinsi=01&pemda=12,Portal Data SIKD
+DJPK-TKDD,terverifikasi,True,True,24-11-2026 17:47,https://djpk.kemenkeu.go.id/portal/data/tkdd?tahun=2025&provinsi=01&pemda=12,Portal Data SIKD
+DJPK-LOG,terverifikasi,True,True,24-11-2026 17:47,https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2016&provinsi=26&pemda=03,Portal Data SIKD

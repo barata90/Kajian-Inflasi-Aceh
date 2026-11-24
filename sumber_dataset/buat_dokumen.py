@@ -129,8 +129,17 @@ def main() -> None:
     # Hasil mode manual ambil_screenshot.py: URL akhir yang dibuka pengguna menjadi URL persis sumber.
     for t in tabel:
         j = SS_DIR / f"{t['kode']}.json"
+        txt = SS_DIR / f"{t['kode']}.txt"
+        info = None
         if j.exists():
             info = json.loads(j.read_text())
+        elif txt.exists():
+            # Screenshot dari versi skrip awal hanya punya .txt; ambil judul dan URL dari sana.
+            m = re.search(r"Diakses (.*?)\. Judul halaman: (.*)\. URL: (\S+)", txt.read_text().strip())
+            if m:
+                info = {"mode": "otomatis", "waktu_akses": m.group(1), "judul_halaman": m.group(2),
+                        "url_akhir": m.group(3)}
+        if info:
             # Hitung ulang kecocokan judul memakai judul halaman yang diharapkan bila ada
             # (portal DJPK memakai judul seragam "Portal Data SIKD" di semua halaman).
             info["judul_cocok"] = judul_cocok(info.get("judul_halaman", ""),
@@ -328,6 +337,17 @@ def main() -> None:
 
     doc.save(OUT)
     tulis_daftar_link(tabel)
+    if SS_DIR.exists():
+        import csv
+        with open(SS_DIR / "laporan_screenshot.csv", "w", newline="", encoding="utf-8") as fh:
+            w = csv.writer(fh)
+            w.writerow(["kode", "status_katalog", "ada_screenshot", "judul_cocok", "waktu_akses", "url_akhir",
+                        "judul_halaman"])
+            for t in tabel:
+                i = t.get("_info", {})
+                w.writerow([t["kode"], t["status"], (SS_DIR / f"{t['kode']}.png").exists(),
+                            i.get("judul_cocok", ""), i.get("waktu_akses", ""), i.get("url_akhir", ""),
+                            i.get("judul_halaman", "")])
     print(f"Tersimpan: {OUT} | screenshot tersisip: {len(ada_ss)}/{len(tabel)}")
 
 
