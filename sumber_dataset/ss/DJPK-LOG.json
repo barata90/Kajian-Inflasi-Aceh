@@ -1,0 +1,10 @@
+{
+ "kode": "DJPK-LOG",
+ "mode": "otomatis",
+ "url_katalog": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2016&provinsi=26&pemda=03",
+ "url_akhir": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2016&provinsi=26&pemda=03",
+ "judul_halaman": "Portal Data SIKD",
+ "judul_katalog": "Log proses penarikan APBD (bukan dataset unduhan)",
+ "judul_cocok": false,
+ "waktu_akses": "24-11-2026 17:47"
+}

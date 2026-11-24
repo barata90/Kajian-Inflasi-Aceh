@@ -1,0 +1,10 @@
+{
+ "kode": "DJPK-APBD",
+ "mode": "otomatis",
+ "url_katalog": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2025&provinsi=01&pemda=12",
+ "url_akhir": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2025&provinsi=01&pemda=12",
+ "judul_halaman": "Portal Data SIKD",
+ "judul_katalog": "Portal Data DJPK: Ringkasan APBD per Pemerintah Daerah",
+ "judul_cocok": false,
+ "waktu_akses": "24-11-2026 17:47"
+}
