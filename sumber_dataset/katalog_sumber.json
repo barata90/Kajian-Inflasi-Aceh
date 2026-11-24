@@ -1,0 +1,2147 @@
+{
+ "jumlah_file": 257,
+ "tabel": [
+  {
+   "kode": "IHK150",
+   "judul": "Indeks Harga Konsumen 150 Kabupaten/Kota (2022=100)",
+   "pola_file": "^Indeks Harga Konsumen 150 Kabupaten_Kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2245,
+   "kode_url": "MjI0NSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI0NSMy/indeks-harga-konsumen-150-kabupaten-kota-2022-100.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen 150 Kabupaten_Kota (2022=100), 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K01",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 01 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2212,
+   "kode_url": "MjIxMiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxMiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K02",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 02 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2213,
+   "kode_url": "MjIxMyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxMyMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K03",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 03 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2214,
+   "kode_url": "MjIxNCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K04",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 04 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2215,
+   "kode_url": "MjIxNSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K05",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 05 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2216,
+   "kode_url": "MjIxNiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K06",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 06 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2217,
+   "kode_url": "MjIxNyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNyMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K07",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 07 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2218,
+   "kode_url": "MjIxOCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxOCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K08",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 08 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2219,
+   "kode_url": "MjIxOSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIxOSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K09",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 09 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2220,
+   "kode_url": "MjIyMCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIyMCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K10",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 10 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2221,
+   "kode_url": "MjIyMSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIyMSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman _ Restoran, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "IHK-K11",
+   "judul": "Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya",
+   "pola_file": "^Indeks Harga Konsumen \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 11 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2222,
+   "kode_url": "MjIyMiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIyMiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K02",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 02 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2235,
+   "kode_url": "MjIzNSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIzNSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K03",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 03 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2236,
+   "kode_url": "MjIzNiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIzNiMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K04",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 04 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2237,
+   "kode_url": "MjIzNyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIzNyMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K05",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 05 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2238,
+   "kode_url": "MjIzOCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIzOCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K06",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 06 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2239,
+   "kode_url": "MjIzOSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIzOSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K07",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 07 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2240,
+   "kode_url": "MjI0MCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K08",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 08 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2241,
+   "kode_url": "MjI0MSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K09",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 09 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2242,
+   "kode_url": "MjI0MiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MiMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K10",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 10 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2243,
+   "kode_url": "MjI0MyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MyMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman _ Restoran, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YTD-K11",
+   "judul": "Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya",
+   "pola_file": "^Inflasi Tahun Kalender \\(Y-to-D\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 11 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2244,
+   "kode_url": "MjI0NCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI0NCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K01",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 01 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2250,
+   "kode_url": "MjI1MCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 01 Makanan, Minuman dan Tembakau, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K02",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 02 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2251,
+   "kode_url": "MjI1MSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K03",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 03 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2252,
+   "kode_url": "MjI1MiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MiMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 03 Perumahan, Air, Listrik dan Bahan Bakar Rumah Tangga, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K04",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 04 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2253,
+   "kode_url": "MjI1MyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MyMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K05",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 05 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2254,
+   "kode_url": "MjI1NCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K06",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 06 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2255,
+   "kode_url": "MjI1NSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K07",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 07 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2256,
+   "kode_url": "MjI1NiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NiMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K08",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 08 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2257,
+   "kode_url": "MjI1NyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NyMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html",
+   "status": "pola",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K09",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 09 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2258,
+   "kode_url": "MjI1OCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1OCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K10",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman / Restoran",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 10 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2259,
+   "kode_url": "MjI1OSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI1OSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman _ Restoran, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "YOY-K11",
+   "judul": "Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya",
+   "pola_file": "^Inflasi Tahunan \\(Y-on-Y\\) \\(2022=100\\) Menurut Kelompok dan Sub Kelompok 11 ",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2260,
+   "kode_url": "MjI2MCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI2MCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya, 2026.xlsx",
+     "tahun": "2026"
+    }
+   ]
+  },
+  {
+   "kode": "FIES",
+   "judul": "Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan",
+   "pola_file": "^Prevalensi Penduduk Dengan Kerawanan Pangan",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 1474,
+   "kode_url": "MTQ3NCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MTQ3NCMy/prevalensi-penduduk-dengan-kerawanan-pangan-sedang-atau-berat-berdasarkan-pada-skala-pengalaman-kerawanan-pangan.html",
+   "status": "terverifikasi",
+   "catatan": "Tingkat provinsi (38 provinsi); baris Aceh ada di dalamnya.",
+   "file": [
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2017.xlsx",
+     "tahun": "2017"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Kerawanan Pangan/Prevalensi Penduduk Dengan Kerawanan Pangan Sedang Atau Berat, Berdasarkan Pada Skala Pengalaman Kerawanan Pangan, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "POU",
+   "judul": "Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten/kota",
+   "pola_file": "^Prevalensi Ketidakcukupan Konsumsi Pangan",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2269,
+   "kode_url": "MjI2OSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjI2OSMy/prevalensi-ketidakcukupan-konsumsi-pangan-persen-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2017.xlsx",
+     "tahun": "2017"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Ketidakcukupan Konsumsi/Prevalensi Ketidakcukupan Konsumsi Pangan (Persen) Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON-PADI",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi\\-Padian Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2094,
+   "kode_url": "MjA5NCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-padi-padian-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON-UMBI",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi\\-Umbian Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2095,
+   "kode_url": "MjA5NSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-umbi-umbian-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON-IKAN",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2096,
+   "kode_url": "MjA5NiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "KON-DAGING",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2097,
+   "kode_url": "MjA5NyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "KON-TELUR",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur\\ dan\\ Susu Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2099,
+   "kode_url": "MjA5OSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjA5OSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "KON-SAYUR",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur\\-Sayuran Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2100,
+   "kode_url": "MjEwMCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "KON-KACANG",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang\\-Kacangan Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2101,
+   "kode_url": "MjEwMSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-kacang-kacangan-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON-BUAH",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah\\-Buahan Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2102,
+   "kode_url": "MjEwMiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "KON-MINYAK",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak\\ dan\\ Kelapa Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2103,
+   "kode_url": "MjEwMyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON-MINUMAN",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan\\ Minuman Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2104,
+   "kode_url": "MjEwNCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwNCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-bahan-minuman-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON-LAINNYA",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan\\ Makanan\\ Lainnya Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2106,
+   "kode_url": "MjEwNiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwNiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-bahan-makanan-lainnya-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Bahan Makanan Lainnya Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON-JADI",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan\\ dan\\ Minuman\\ Jadi Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2107,
+   "kode_url": "MjEwNyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwNyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-makanan-dan-minuman-jadi-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Makanan dan Minuman Jadi Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON25-IKAN",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2550,
+   "kode_url": "MjU1MCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota-komoditas-2025.html",
+   "status": "terverifikasi",
+   "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON25-DAGING",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2552,
+   "kode_url": "MjU1MiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota-komoditas-2025.html",
+   "status": "terverifikasi",
+   "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON25-TELUR",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur\\ dan\\ Susu Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2554,
+   "kode_url": "MjU1NCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota-komoditas-2025.html",
+   "status": "terverifikasi",
+   "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON25-SAYUR",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur\\-Sayuran Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2556,
+   "kode_url": "MjU1NiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota-komoditas-2025.html",
+   "status": "terverifikasi",
+   "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KON25-BUAH",
+   "judul": "Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah\\-Buahan Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2558,
+   "kode_url": "MjU1OCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1OCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota-komoditas-2025.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2550, 2552, 2554, 2556); kepastian paling rendah, cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-PADI",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Padi-Padian Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Padi\\-Padian Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2109,
+   "kode_url": "MjEwOSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEwOSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-padi-padian-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Padi-Padian Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-UMBI",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Umbi-Umbian Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Umbi\\-Umbian Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2110,
+   "kode_url": "MjExMCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExMCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-umbi-umbian-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Umbi-Umbian Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-IKAN",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Ikan Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2111,
+   "kode_url": "MjExMSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExMSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-DAGING",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Daging Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2113,
+   "kode_url": "MjExMyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExMyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-TELUR",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Telur\\ dan\\ Susu Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2115,
+   "kode_url": "MjExNSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExNSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Telur dan Susu Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-SAYUR",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Sayur\\-Sayuran Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2116,
+   "kode_url": "MjExNiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExNiMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-KACANG",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Kacang-Kacangan Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Kacang\\-Kacangan Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2117,
+   "kode_url": "MjExNyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExNyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-kacang-kacangan-per-kabupaten-kota.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari urutan seri konsumsi (sayur, kacang, buah, minyak) yang berpadanan dengan seri pengeluaran 2116 sampai 2119; cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-BUAH",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Buah\\-Buahan Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2118,
+   "kode_url": "MjExOCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExOCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari urutan seri konsumsi (sayur, kacang, buah, minyak) yang berpadanan dengan seri pengeluaran 2116 sampai 2119; cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-MINYAK",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Minyak dan Kelapa Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Minyak\\ dan\\ Kelapa Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2119,
+   "kode_url": "MjExOSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjExOSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Minyak dan Kelapa Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-MINUMAN",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Bahan Minuman Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Bahan\\ Minuman Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2120,
+   "kode_url": "MjEyMCMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEyMCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-bahan-minuman-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bahan Minuman Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-BUMBU",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Bumbu-Bumbuan Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Bumbu\\-Bumbuan Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2122,
+   "kode_url": "MjEyMiMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEyMiMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-bumbu-bumbuan-per-kabupaten-kota.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Bumbu-Bumbuan Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN-JADI",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Makanan Minuman Jadi Per Kabupaten/kota",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Makanan\\ Minuman\\ Jadi Per Kabupaten_kota",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2123,
+   "kode_url": "MjEyMyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjEyMyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-makanan-minuman-jadi-per-kabupaten-kota.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari urutan seri konsumsi (sayur, kacang, buah, minyak) yang berpadanan dengan seri pengeluaran 2116 sampai 2119; cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN25-IKAN",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Ikan Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Ikan Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2551,
+   "kode_url": "MjU1MSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota-komoditas-2025.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN25-DAGING",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Daging Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Daging Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2553,
+   "kode_url": "MjU1MyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota-komoditas-2025.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN25-TELUR",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Telur\\ dan\\ Susu Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2555,
+   "kode_url": "MjU1NSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota-komoditas-2025.html",
+   "status": "terverifikasi",
+   "catatan": "",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Telur dan Susu Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN25-SAYUR",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Sayur-Sayuran Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Sayur\\-Sayuran Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2557,
+   "kode_url": "MjU1NyMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota-komoditas-2025.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "PEN25-BUAH",
+   "judul": "Rata-rata Pengeluaran Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten/Kota-Komoditas 2025",
+   "pola_file": "^Rata-rata Pengeluaran Perkapita Seminggu +Menurut Kelompok Buah\\-Buahan Per Kabupaten_Kota-Komoditas 2025",
+   "penerbit": "Badan Pusat Statistik (BPS) RI",
+   "situs": "www.bps.go.id",
+   "jenis": "Tabel Statistik (tabel dinamis)",
+   "var_id": 2559,
+   "kode_url": "MjU1OSMy",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjU1OSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota-komoditas-2025.html",
+   "status": "pola",
+   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_Kota-Komoditas 2025.xlsx",
+     "tahun": ""
+    }
+   ]
+  },
+  {
+   "kode": "TPT-ACEH",
+   "judul": "Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten/Kota di Provinsi Aceh",
+   "pola_file": "^Tingkat Pengangguran Terbuka \\(TPT\\) dan Tingkat Partisipasi Angkatan Kerja",
+   "penerbit": "BPS Provinsi Aceh",
+   "situs": "aceh.bps.go.id",
+   "jenis": "Tabel Statistik (tabel per tahun, dipilih dengan parameter ?year=)",
+   "var_id": null,
+   "kode_url": "V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==",
+   "url": "https://aceh.bps.go.id/id/statistics-table/3/V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==/tingkat-pengangguran-terbuka--tpt--dan-tingkat-partisipasi-angkatan-kerja--tpak--menurut-kabupaten-kota-di-provinsi-aceh.html?year=2025",
+   "url_per_tahun": "https://aceh.bps.go.id/id/statistics-table/3/V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==/tingkat-pengangguran-terbuka--tpt--dan-tingkat-partisipasi-angkatan-kerja--tpak--menurut-kabupaten-kota-di-provinsi-aceh.html?year={tahun}",
+   "status": "terverifikasi",
+   "catatan": "Halaman yang sama melayani tahun lain dengan mengganti nilai ?year= (terindeks untuk 2019, 2022, 2025).",
+   "file": [
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2017.xlsx",
+     "tahun": "2017"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2018.xlsx",
+     "tahun": "2018"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2019.xlsx",
+     "tahun": "2019"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2020.xlsx",
+     "tahun": "2020"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2021.xlsx",
+     "tahun": "2021"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2022.xlsx",
+     "tahun": "2022"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2023.xlsx",
+     "tahun": "2023"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2024.xlsx",
+     "tahun": "2024"
+    },
+    {
+     "path": "TPT/Tingkat Pengangguran Terbuka (TPT) dan Tingkat Partisipasi Angkatan Kerja (TPAK) Menurut Kabupaten_Kota di Provinsi Aceh, 2025.xlsx",
+     "tahun": "2025"
+    }
+   ]
+  },
+  {
+   "kode": "KONPEN-ACEH",
+   "judul": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Aceh, 2018-2025",
+   "pola_file": "^rata-rata-konsumsi-dan-pengeluaran-perkapita-seminggu--menurut-komoditi-makanan",
+   "penerbit": "BPS Provinsi Aceh",
+   "situs": "aceh.bps.go.id",
+   "jenis": "Tabel Statistik statis (statistics-table/1), unduhan .xls",
+   "var_id": null,
+   "kode_url": "",
+   "url": "https://aceh.bps.go.id/id/statistics-table",
+   "status": "belum_ditemukan",
+   "catatan": "Nama file sama dengan slug judul tabel statis BPS, dan isi lembar 'indo' berjudul 'Rata-rata Konsumsi Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu, 2018-2025, PROVINSI ACEH' (metadata file: disimpan 23 Desember 2025). Kode tabel statis BPS terenkripsi dan halaman ini tidak terindeks mesin pencari, sehingga URL persisnya belum dapat dipastikan dari sesi ini. Telusuri dari menu Tabel Statistik aceh.bps.go.id, subjek Konsumsi dan Pengeluaran, dengan judul di atas.",
+   "file": [
+    {
+     "path": "Pengeluaran per kapita/rata-rata-konsumsi-dan-pengeluaran-perkapita-seminggu--menurut-komoditi-makanan--dan-golongan-pengeluaran-per-kapita-seminggu-di-provinsi-aceh.xls",
+     "tahun": ""
+    }
+   ]
+  },
+  {
+   "kode": "DJPK-APBD",
+   "judul": "Portal Data DJPK: Ringkasan APBD per Pemerintah Daerah",
+   "pola_file": "^apbd_kabupaten_kota\\.xlsx$",
+   "penerbit": "Direktorat Jenderal Perimbangan Keuangan (DJPK), Kementerian Keuangan",
+   "situs": "djpk.kemenkeu.go.id",
+   "jenis": "Halaman portal data (ditarik dengan skrip tarik_apbd_djpk.py)",
+   "var_id": null,
+   "kode_url": "",
+   "url": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2025&provinsi=01&pemda=12",
+   "url_dasar": "https://djpk.kemenkeu.go.id/portal/data/apbd",
+   "url_unduh_csv": "https://djpk.kemenkeu.go.id/portal/csv_apbd?type=apbd&periode=12&tahun=2026&provinsi=--&pemda=--",
+   "status": "terverifikasi",
+   "catatan": "URL persis setiap baris tersimpan di kolom url_sumber (5.353 URL unik, 2016 sampai 2026, 37 provinsi). Contoh pada screenshot: Kota Banda Aceh (provinsi=01, pemda=12), TA 2025.",
+   "file": [
+    {
+     "path": "apbd_kabupaten_kota.xlsx",
+     "tahun": ""
+    }
+   ]
+  },
+  {
+   "kode": "DJPK-TKDD",
+   "judul": "Portal Data DJPK: Transfer ke Daerah dan Dana Desa (TKDD) per Pemerintah Daerah",
+   "pola_file": "^tkdd_kabupaten_kota\\.xlsx$",
+   "penerbit": "Direktorat Jenderal Perimbangan Keuangan (DJPK), Kementerian Keuangan",
+   "situs": "djpk.kemenkeu.go.id",
+   "jenis": "Halaman portal data (ditarik dengan skrip tarik_tkdd_djpk.py)",
+   "var_id": null,
+   "kode_url": "",
+   "url": "https://djpk.kemenkeu.go.id/portal/data/tkdd?tahun=2025&provinsi=01&pemda=12",
+   "url_dasar": "https://djpk.kemenkeu.go.id/portal/data/tkdd",
+   "status": "terverifikasi",
+   "catatan": "URL persis setiap baris tersimpan di kolom url_sumber (5.080 URL unik, 2017 sampai 2026). Contoh pada screenshot: Kota Banda Aceh, TA 2025.",
+   "file": [
+    {
+     "path": "tkdd_kabupaten_kota.xlsx",
+     "tahun": ""
+    }
+   ]
+  },
+  {
+   "kode": "DJPK-LOG",
+   "judul": "Log proses penarikan APBD (bukan dataset unduhan)",
+   "pola_file": "^apbd_(errors|no_data)\\.csv$",
+   "penerbit": "Dihasilkan skrip tarik_apbd_djpk.py",
+   "situs": "djpk.kemenkeu.go.id",
+   "jenis": "Catatan galat dan kombinasi tanpa data",
+   "var_id": null,
+   "kode_url": "",
+   "url": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2016&provinsi=26&pemda=03",
+   "status": "terverifikasi",
+   "catatan": "apbd_errors.csv berisi 186 kombinasi tahun|periode|provinsi|pemda yang dijawab server dengan HTTP 500; apbd_no_data.csv berisi 49 kombinasi yang halamannya tidak memuat tabel. URL yang dicoba tertulis lengkap di kolom error. Contoh pada screenshot adalah baris pertama apbd_errors.csv.",
+   "file": [
+    {
+     "path": "apbd_errors.csv",
+     "tahun": ""
+    },
+    {
+     "path": "apbd_no_data.csv",
+     "tahun": ""
+    }
+   ]
+  }
+ ]
+}
