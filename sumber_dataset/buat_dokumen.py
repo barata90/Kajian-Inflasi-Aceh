@@ -9,6 +9,7 @@ Screenshot yang ada di ss/ disisipkan otomatis; yang belum ada diberi kotak pena
 from __future__ import annotations
 
 import json
+import re
 from datetime import date
 from pathlib import Path
 
@@ -40,6 +41,14 @@ GRUP = [
     ("E. Tabel BPS Provinsi Aceh", ("TPT", "KONPEN")),
     ("F. Keuangan Daerah (DJPK Kementerian Keuangan)", ("DJPK",)),
 ]
+
+
+def judul_cocok(judul_halaman: str, judul_harapan: str) -> bool:
+    def norm(s: str) -> str:
+        s = re.split(r" - (Tabel Statistik|Statistical Data|Badan Pusat Statistik)", s or "")[0]
+        return re.sub(r"[^a-z0-9]+", "", s.lower())
+    a, b = norm(judul_halaman), norm(judul_harapan)
+    return bool(a) and (a == b or a.startswith(b) or b.startswith(a))
 
 
 def hyperlink(par, url: str, teks: str | None = None, ukuran: int = 9):
@@ -122,6 +131,10 @@ def main() -> None:
         j = SS_DIR / f"{t['kode']}.json"
         if j.exists():
             info = json.loads(j.read_text())
+            # Hitung ulang kecocokan judul memakai judul halaman yang diharapkan bila ada
+            # (portal DJPK memakai judul seragam "Portal Data SIKD" di semua halaman).
+            info["judul_cocok"] = judul_cocok(info.get("judul_halaman", ""),
+                                              t.get("judul_halaman_harapan") or t["judul"])
             t["_info"] = info
             if info.get("mode") == "manual" and info.get("url_akhir"):
                 t["url"] = info["url_akhir"]

@@ -95,7 +95,7 @@ def simpan(t: dict, page, mode: str, png: Path) -> dict:
     info = {
         "kode": t["kode"], "mode": mode, "url_katalog": t["url"], "url_akhir": page.url,
         "judul_halaman": judul, "judul_katalog": t["judul"],
-        "judul_cocok": judul_cocok(judul, t["judul"]),
+        "judul_cocok": judul_cocok(judul, t.get("judul_halaman_harapan") or t["judul"]),
         "waktu_akses": datetime.now().strftime("%d-%m-%Y %H:%M"),
     }
     (SS / f"{t['kode']}.json").write_text(json.dumps(info, ensure_ascii=False, indent=1))
