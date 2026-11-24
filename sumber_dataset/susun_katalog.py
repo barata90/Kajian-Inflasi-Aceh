@@ -40,9 +40,9 @@ KELOMPOK_IHK = {
     11: "11 Perawatan Pribadi dan Jasa Lainnya",
 }
 # Titik yang sudah terverifikasi lewat mesin pencari (nomor kelompok).
-VERIF_IHK = {1, 3, 4, 6, 11}           # var = 2211 + k
-VERIF_YTD = {5}                        # var = 2233 + k (M-to-M 02 = 2224 ikut terverifikasi)
-VERIF_YOY = {1, 3, 4, 5, 7, 9, 10, 11}  # var = 2249 + k
+VERIF_IHK = {1, 2, 3, 4, 6, 10, 11}     # var = 2211 + k
+VERIF_YTD = {3, 5}                     # var = 2233 + k (M-to-M 02 = 2224 dan 03 = 2225 ikut terverifikasi)
+VERIF_YOY = {1, 3, 4, 5, 6, 7, 9, 10, 11}  # var = 2249 + k
 
 
 def b64(var: int) -> str:

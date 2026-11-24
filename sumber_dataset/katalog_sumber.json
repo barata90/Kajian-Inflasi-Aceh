@@ -49,7 +49,7 @@
    "var_id": 2213,
    "kode_url": "MjIxMyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxMyMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html",
-   "status": "pola",
+   "status": "terverifikasi",
    "catatan": "",
    "file": [
     {
@@ -201,7 +201,7 @@
    "var_id": 2221,
    "kode_url": "MjIyMSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIyMSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html",
-   "status": "pola",
+   "status": "terverifikasi",
    "catatan": "",
    "file": [
     {
@@ -258,7 +258,7 @@
    "var_id": 2236,
    "kode_url": "MjIzNiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIzNiMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html",
-   "status": "pola",
+   "status": "terverifikasi",
    "catatan": "",
    "file": [
     {
@@ -524,7 +524,7 @@
    "var_id": 2255,
    "kode_url": "MjI1NSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html",
-   "status": "pola",
+   "status": "terverifikasi",
    "catatan": "",
    "file": [
     {
