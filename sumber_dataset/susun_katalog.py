@@ -193,23 +193,24 @@ def daftar_tabel() -> list[dict]:
               "judul": ("Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan "
                         "dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Aceh, 2018-2025"),
               "pola_file": r"^rata-rata-konsumsi-dan-pengeluaran-perkapita-seminggu--menurut-komoditi-makanan",
-              "penerbit": "BPS Provinsi Aceh", "situs": "aceh.bps.go.id",
+              "penerbit": "Badan Pusat Statistik (BPS) RI", "situs": "www.bps.go.id",
               "jenis": "Tabel Statistik statis (statistics-table/1), unduhan .xls",
-              "var_id": None, "kode_url": "",
-              "url": "https://aceh.bps.go.id/id/statistics-table",
-              "status": "belum_ditemukan",
-              "catatan": ("Nama file sama dengan slug judul tabel statis BPS, dan isi lembar 'indo' berjudul "
-                          "'Rata-rata Konsumsi Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran "
-                          "per Kapita Seminggu, 2018-2025, PROVINSI ACEH' (metadata file: disimpan 23 Desember 2025). "
-                          "Kode tabel statis BPS terenkripsi dan halaman ini tidak terindeks mesin pencari, sehingga "
-                          "URL persisnya belum dapat dipastikan dari sesi ini. Telusuri dari menu Tabel Statistik "
-                          "aceh.bps.go.id, subjek Konsumsi dan Pengeluaran, dengan judul di atas.")})
+              "var_id": None, "kode_url": "MjE0NCMx",
+              "url": ("https://www.bps.go.id/id/statistics-table/1/MjE0NCMx/rata-rata-konsumsi-dan-pengeluaran-"
+                      "perkapita-seminggu--menurut-komoditi-makanan--dan-golongan-pengeluaran-per-kapita-seminggu-"
+                      "di-provinsi-aceh--2018-2025.html"),
+              "status": "terverifikasi",
+              "catatan": ("URL diberikan pengguna pada 24-11-2026. Kode MjE0NCMx adalah base64 dari \"2144#1\" "
+                          "(tabel statis nomor 2144 di www.bps.go.id). Nama file .xls sama dengan slug URL ini; "
+                          "isi lembar 'indo' berjudul 'Rata-rata Konsumsi Perkapita Seminggu Menurut Komoditi "
+                          "Makanan dan Golongan Pengeluaran per Kapita Seminggu, 2018-2025, PROVINSI ACEH'.")})
 
     # 6. DJPK Kemenkeu
     t.append({"kode": "DJPK-APBD", "judul": "Portal Data DJPK: Ringkasan APBD per Pemerintah Daerah",
               "pola_file": r"^apbd_kabupaten_kota\.xlsx$",
               "penerbit": "Direktorat Jenderal Perimbangan Keuangan (DJPK), Kementerian Keuangan",
               "situs": "djpk.kemenkeu.go.id", "judul_halaman_harapan": "Portal Data SIKD", "jenis": "Halaman portal data (ditarik dengan skrip tarik_apbd_djpk.py)",
+              "url_skrip": "https://github.com/barata90/Inflasi-Aceh/blob/main/Dataset/tarik_apbd_djpk.py",
               "var_id": None, "kode_url": "",
               "url": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2025&provinsi=01&pemda=12",
               "url_dasar": "https://djpk.kemenkeu.go.id/portal/data/apbd",
@@ -221,6 +222,7 @@ def daftar_tabel() -> list[dict]:
               "pola_file": r"^tkdd_kabupaten_kota\.xlsx$",
               "penerbit": "Direktorat Jenderal Perimbangan Keuangan (DJPK), Kementerian Keuangan",
               "situs": "djpk.kemenkeu.go.id", "judul_halaman_harapan": "Portal Data SIKD", "jenis": "Halaman portal data (ditarik dengan skrip tarik_tkdd_djpk.py)",
+              "url_skrip": "https://github.com/barata90/Inflasi-Aceh/blob/main/Dataset/tarik_tkdd_djpk.py",
               "var_id": None, "kode_url": "",
               "url": "https://djpk.kemenkeu.go.id/portal/data/tkdd?tahun=2025&provinsi=01&pemda=12",
               "url_dasar": "https://djpk.kemenkeu.go.id/portal/data/tkdd",
@@ -231,6 +233,7 @@ def daftar_tabel() -> list[dict]:
               "pola_file": r"^apbd_(errors|no_data)\.csv$",
               "penerbit": "Dihasilkan skrip tarik_apbd_djpk.py", "situs": "djpk.kemenkeu.go.id", "judul_halaman_harapan": "Portal Data SIKD",
               "jenis": "Catatan galat dan kombinasi tanpa data", "var_id": None, "kode_url": "",
+              "url_skrip": "https://github.com/barata90/Inflasi-Aceh/blob/main/Dataset/tarik_apbd_djpk.py",
               "url": "https://djpk.kemenkeu.go.id/portal/data/apbd?periode=12&tahun=2016&provinsi=26&pemda=03",
               "status": "terverifikasi",
               "catatan": ("apbd_errors.csv berisi 186 kombinasi tahun|periode|provinsi|pemda yang dijawab server dengan "

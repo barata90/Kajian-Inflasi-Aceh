@@ -89,9 +89,12 @@ class Browser:
         return self.page
 
 
-def simpan(t: dict, page, mode: str, png: Path) -> dict:
-    page.screenshot(path=str(png), full_page=False)
+def simpan(t: dict, page, mode: str, png: Path) -> dict | None:
     judul = page.title()
+    if not judul.strip() or page.url in ("", "about:blank"):
+        print("   TIDAK disimpan: halaman kosong (judul/URL kosong). Ulangi untuk kode ini.")
+        return None
+    page.screenshot(path=str(png), full_page=False)
     info = {
         "kode": t["kode"], "mode": mode, "url_katalog": t["url"], "url_akhir": page.url,
         "judul_halaman": judul, "judul_katalog": t["judul"],
@@ -145,7 +148,17 @@ def manual(br: Browser, t: dict, png: Path):
     if t.get("catatan"):
         print(f"   Catatan: {t['catatan'][:300]}")
     input("   Setelah tabel tampil penuh di layar, tekan Enter di sini untuk memotret... ")
-    return simpan(t, br.halaman(), "manual", png)
+    # Tabel sering terbuka di tab baru: potret tab terbuka yang paling akhir, bukan tab awal.
+    try:
+        terbuka = [p for p in br.ctx.pages if not p.is_closed()]
+    except Exception:
+        terbuka = []
+    if not terbuka:
+        print("   Jendela browser sudah tertutup sebelum Enter ditekan; tidak ada yang dipotret.")
+        return None
+    hal = terbuka[-1]
+    hal.bring_to_front()
+    return simpan(t, hal, "manual", png)
 
 
 def main() -> None:

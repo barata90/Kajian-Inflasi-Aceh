@@ -38,7 +38,7 @@ GRUP = [
     ("B. Ketahanan Pangan (BPS RI)", ("FIES", "POU")),
     ("C. Konsumsi per Kapita Seminggu (BPS RI, Susenas)", ("KON-", "KON25")),
     ("D. Pengeluaran per Kapita Seminggu (BPS RI, Susenas)", ("PEN-", "PEN25")),
-    ("E. Tabel BPS Provinsi Aceh", ("TPT", "KONPEN")),
+    ("E. Tabel Khusus Provinsi Aceh (BPS)", ("TPT", "KONPEN")),
     ("F. Keuangan Daerah (DJPK Kementerian Keuangan)", ("DJPK",)),
 ]
 
@@ -136,7 +136,8 @@ def main() -> None:
             info["judul_cocok"] = judul_cocok(info.get("judul_halaman", ""),
                                               t.get("judul_halaman_harapan") or t["judul"])
             t["_info"] = info
-            if info.get("mode") == "manual" and info.get("url_akhir"):
+            if (info.get("mode") == "manual" and str(info.get("url_akhir", "")).startswith("http")
+                    and info.get("judul_halaman", "").strip()):
                 t["url"] = info["url_akhir"]
                 t["status"] = "terverifikasi"
                 t["catatan"] = (t.get("catatan", "") + " URL di atas direkam dari browser saat tabel dibuka "
@@ -251,6 +252,8 @@ def main() -> None:
             baris.append(("Langkah di Tabel Dinamis",
                           "Pilih Tabel/Indikator dengan judul di atas, centang tahun yang tercantum di baris "
                           "\"Tahun yang diunduh\", tampilkan, lalu unduh sebagai Excel."))
+        if s.get("url_skrip"):
+            baris.append(("Skrip penarik data", s["url_skrip"]))
         if s.get("url_per_tahun"):
             baris.append(("URL per tahun", s["url_per_tahun"].replace("{tahun}", "<tahun>")))
         if s.get("url_dasar"):
@@ -268,7 +271,7 @@ def main() -> None:
             shade(r[0], "F2F2F2")
             if k == "URL":
                 hyperlink(r[1].paragraphs[0], s["url"])
-            elif k.startswith("URL") or k.startswith("Tautan"):
+            elif k.startswith("URL") or k.startswith("Tautan") or k.startswith("Skrip") or k.startswith("Tabel Dinamis"):
                 hyperlink(r[1].paragraphs[0], v.replace("<tahun>", "2025") if "<tahun>" in v else v, v)
             elif k == "Status URL":
                 teks_sel(r[1], v, tebal=True, warna=WARNA_STATUS[s["status"]])
@@ -324,7 +327,57 @@ def main() -> None:
         doc.add_paragraph(langkah, style="List Number")
 
     doc.save(OUT)
+    tulis_daftar_link(tabel)
     print(f"Tersimpan: {OUT} | screenshot tersisip: {len(ada_ss)}/{len(tabel)}")
+
+
+def tulis_daftar_link(tabel: list[dict]) -> None:
+    """Daftar semua link dalam satu lembar Excel, berdampingan dengan dokumen Word."""
+    try:
+        from openpyxl import Workbook
+        from openpyxl.styles import Alignment, Font, PatternFill
+    except ImportError:
+        print("openpyxl tidak terpasang; Daftar_Link_Sumber_Dataset.xlsx dilewati")
+        return
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Link sumber"
+    kepala = ["No", "Kode", "Judul tabel sumber", "Penerbit", "URL sumber", "Tabel Dinamis (tempat unduh)",
+              "Skrip penarik", "Status URL", "Jumlah file", "Tahun", "File di repo (Dataset/...)",
+              "Screenshot", "Judul halaman saat dipotret"]
+    ws.append(kepala)
+    for c in ws[1]:
+        c.font = Font(bold=True)
+        c.fill = PatternFill("solid", fgColor="DCE6F1")
+    for i, t in enumerate(tabel, 1):
+        info = t.get("_info", {})
+        judul_hal = info.get("judul_halaman", "")
+        if not judul_hal:
+            meta = SS_DIR / f"{t['kode']}.txt"
+            if meta.exists():
+                m = re.search(r"Judul halaman: (.*?)\. URL:", meta.read_text())
+                judul_hal = m.group(1) if m else ""
+        ws.append([i, t["kode"], t["judul"], t["penerbit"], t["url"], t.get("url_tabel_dinamis", ""),
+                   t.get("url_skrip", ""), LABEL_STATUS[t["status"]], len(t["file"]),
+                   ", ".join(f["tahun"] for f in t["file"] if f["tahun"]),
+                   "\n".join(f["path"] for f in t["file"]),
+                   f"ss/{t['kode']}.png" if (SS_DIR / f"{t['kode']}.png").exists() else "belum ada",
+                   judul_hal])
+        for kol in (5, 6, 7):
+            sel = ws.cell(row=i + 1, column=kol)
+            if sel.value:
+                sel.hyperlink = sel.value
+                sel.font = Font(color="0563C1", underline="single")
+    lebar = [5, 13, 60, 28, 70, 40, 40, 22, 9, 30, 70, 20, 60]
+    for j, w in enumerate(lebar, 1):
+        ws.column_dimensions[ws.cell(row=1, column=j).column_letter].width = w
+    for row in ws.iter_rows(min_row=2):
+        for c in row:
+            c.alignment = Alignment(vertical="top", wrap_text=c.column in (3, 11, 13))
+    ws.freeze_panes = "C2"
+    out = HERE / "Daftar_Link_Sumber_Dataset.xlsx"
+    wb.save(out)
+    print(f"Tersimpan: {out}")
 
 
 if __name__ == "__main__":
