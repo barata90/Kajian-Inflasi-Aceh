@@ -21,6 +21,7 @@ import sys
 from pathlib import Path
 
 BPS = "https://www.bps.go.id/id/statistics-table/2/{id}/{slug}.html"
+QB_ACEH = "https://aceh.bps.go.id/id/query-builder"
 TPT_ACEH = ("https://aceh.bps.go.id/id/statistics-table/3/"
             "V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==/"
             "tingkat-pengangguran-terbuka--tpt--dan-tingkat-partisipasi-angkatan-kerja--tpak--"
@@ -63,6 +64,8 @@ def bps(var: int, judul: str, status: str, catatan: str = "") -> dict:
         "var_id": var,
         "kode_url": b64(var),
         "url": BPS.format(id=b64(var), slug=slug(judul)),
+        # Menurut pengguna, file diunduh lewat fitur Tabel Dinamis (query builder) situs BPS Provinsi Aceh.
+        "url_tabel_dinamis": QB_ACEH,
         "status": status,
         "catatan": catatan,
     }
@@ -181,6 +184,7 @@ def daftar_tabel() -> list[dict]:
               "penerbit": "BPS Provinsi Aceh", "situs": "aceh.bps.go.id",
               "jenis": "Tabel Statistik (tabel per tahun, dipilih dengan parameter ?year=)",
               "var_id": None, "kode_url": "V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==",
+              "url_tabel_dinamis": QB_ACEH,
               "url": TPT_ACEH.format(tahun=2025), "url_per_tahun": TPT_ACEH, "status": "terverifikasi",
               "catatan": "Halaman yang sama melayani tahun lain dengan mengganti nilai ?year= (terindeks untuk 2019, 2022, 2025)."})
 
@@ -232,7 +236,22 @@ def daftar_tabel() -> list[dict]:
               "catatan": ("apbd_errors.csv berisi 186 kombinasi tahun|periode|provinsi|pemda yang dijawab server dengan "
                           "HTTP 500; apbd_no_data.csv berisi 49 kombinasi yang halamannya tidak memuat tabel. "
                           "URL yang dicoba tertulis lengkap di kolom error. Contoh pada screenshot adalah baris pertama apbd_errors.csv.")})
+    # Sumber yang nomornya semula disimpulkan dari pola, lalu dikonfirmasi lewat judul halaman yang tampil
+    # saat ambil_screenshot.py dijalankan di komputer pengguna (24-11-2026).
+    for x in t:
+        if x["status"] == "pola" and x["kode"] in KONFIRMASI_BROWSER:
+            x["status"] = "terverifikasi"
+            x["catatan"] = ("Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil "
+                            "saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.")
     return t
+
+
+KONFIRMASI_BROWSER = {
+    "IHK-K05", "IHK-K07", "IHK-K08", "IHK-K09",
+    "YTD-K02", "YTD-K04", "YTD-K06", "YTD-K07", "YTD-K08", "YTD-K09", "YTD-K10", "YTD-K11",
+    "YOY-K02", "YOY-K08", "KON25-BUAH", "PEN-KACANG", "PEN-BUAH", "PEN-JADI",
+    "PEN25-IKAN", "PEN25-DAGING", "PEN25-SAYUR", "PEN25-BUAH",
+}
 
 
 def main() -> None:

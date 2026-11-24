@@ -11,6 +11,7 @@
    "var_id": 2245,
    "kode_url": "MjI0NSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI0NSMy/indeks-harga-konsumen-150-kabupaten-kota-2022-100.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -30,6 +31,7 @@
    "var_id": 2212,
    "kode_url": "MjIxMiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxMiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -49,6 +51,7 @@
    "var_id": 2213,
    "kode_url": "MjIxMyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxMyMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -68,6 +71,7 @@
    "var_id": 2214,
    "kode_url": "MjIxNCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -87,6 +91,7 @@
    "var_id": 2215,
    "kode_url": "MjIxNSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -106,8 +111,9 @@
    "var_id": 2216,
    "kode_url": "MjIxNiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 05 Kesehatan, 2026.xlsx",
@@ -125,6 +131,7 @@
    "var_id": 2217,
    "kode_url": "MjIxNyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxNyMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -144,8 +151,9 @@
    "var_id": 2218,
    "kode_url": "MjIxOCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxOCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2026.xlsx",
@@ -163,8 +171,9 @@
    "var_id": 2219,
    "kode_url": "MjIxOSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIxOSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2026.xlsx",
@@ -182,8 +191,9 @@
    "var_id": 2220,
    "kode_url": "MjIyMCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIyMCMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Indeks Harga Konsumen (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2026.xlsx",
@@ -201,6 +211,7 @@
    "var_id": 2221,
    "kode_url": "MjIyMSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIyMSMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -220,6 +231,7 @@
    "var_id": 2222,
    "kode_url": "MjIyMiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIyMiMy/indeks-harga-konsumen-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -239,8 +251,9 @@
    "var_id": 2235,
    "kode_url": "MjIzNSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIzNSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2026.xlsx",
@@ -258,6 +271,7 @@
    "var_id": 2236,
    "kode_url": "MjIzNiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIzNiMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -277,8 +291,9 @@
    "var_id": 2237,
    "kode_url": "MjIzNyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIzNyMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 04 Perlengkapan, Peralatan dan Pemeliharaan Rutin Rumah Tangga, 2026.xlsx",
@@ -296,6 +311,7 @@
    "var_id": 2238,
    "kode_url": "MjIzOCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIzOCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -315,8 +331,9 @@
    "var_id": 2239,
    "kode_url": "MjIzOSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjIzOSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 06 Transportasi, 2026.xlsx",
@@ -334,8 +351,9 @@
    "var_id": 2240,
    "kode_url": "MjI0MCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 07 Informasi, Komunikasi dan Jasa Keuangan, 2026.xlsx",
@@ -353,8 +371,9 @@
    "var_id": 2241,
    "kode_url": "MjI0MSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MSMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2026.xlsx",
@@ -372,8 +391,9 @@
    "var_id": 2242,
    "kode_url": "MjI0MiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MiMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 09 Pendidikan, 2026.xlsx",
@@ -391,8 +411,9 @@
    "var_id": 2243,
    "kode_url": "MjI0MyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI0MyMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 10 Penyediaan Makanan dan Minuman _ Restoran, 2026.xlsx",
@@ -410,8 +431,9 @@
    "var_id": 2244,
    "kode_url": "MjI0NCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI0NCMy/inflasi-tahun-kalender-y-to-d-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahun Kalender (Y-to-D) (2022=100) Menurut Kelompok dan Sub Kelompok 11 Perawatan Pribadi dan Jasa Lainnya, 2026.xlsx",
@@ -429,6 +451,7 @@
    "var_id": 2250,
    "kode_url": "MjI1MCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-01-makanan-minuman-dan-tembakau.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -448,8 +471,9 @@
    "var_id": 2251,
    "kode_url": "MjI1MSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-02-pakaian-dan-alas-kaki.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 02 Pakaian dan Alas Kaki, 2026.xlsx",
@@ -467,6 +491,7 @@
    "var_id": 2252,
    "kode_url": "MjI1MiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MiMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-03-perumahan-air-listrik-dan-bahan-bakar-rumah-tangga.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -486,6 +511,7 @@
    "var_id": 2253,
    "kode_url": "MjI1MyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1MyMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-04-perlengkapan-peralatan-dan-pemeliharaan-rutin-rumah-tangga.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -505,6 +531,7 @@
    "var_id": 2254,
    "kode_url": "MjI1NCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-05-kesehatan.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -524,6 +551,7 @@
    "var_id": 2255,
    "kode_url": "MjI1NSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-06-transportasi.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -543,6 +571,7 @@
    "var_id": 2256,
    "kode_url": "MjI1NiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NiMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-07-informasi-komunikasi-dan-jasa-keuangan.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -562,8 +591,9 @@
    "var_id": 2257,
    "kode_url": "MjI1NyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1NyMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-08-rekreasi-olahraga-dan-budaya.html",
-   "status": "pola",
-   "catatan": "",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Data IHK dan Inflasi hingga September 2026/Inflasi Tahunan (Y-on-Y) (2022=100) Menurut Kelompok dan Sub Kelompok 08 Rekreasi, Olahraga dan Budaya, 2026.xlsx",
@@ -581,6 +611,7 @@
    "var_id": 2258,
    "kode_url": "MjI1OCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1OCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-09-pendidikan.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -600,6 +631,7 @@
    "var_id": 2259,
    "kode_url": "MjI1OSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI1OSMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-10-penyediaan-makanan-dan-minuman-restoran.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -619,6 +651,7 @@
    "var_id": 2260,
    "kode_url": "MjI2MCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI2MCMy/inflasi-tahunan-y-on-y-2022-100-menurut-kelompok-dan-sub-kelompok-11-perawatan-pribadi-dan-jasa-lainnya.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -638,6 +671,7 @@
    "var_id": 1474,
    "kode_url": "MTQ3NCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MTQ3NCMy/prevalensi-penduduk-dengan-kerawanan-pangan-sedang-atau-berat-berdasarkan-pada-skala-pengalaman-kerawanan-pangan.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "Tingkat provinsi (38 provinsi); baris Aceh ada di dalamnya.",
    "file": [
@@ -689,6 +723,7 @@
    "var_id": 2269,
    "kode_url": "MjI2OSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjI2OSMy/prevalensi-ketidakcukupan-konsumsi-pangan-persen-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -740,6 +775,7 @@
    "var_id": 2094,
    "kode_url": "MjA5NCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-padi-padian-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -787,6 +823,7 @@
    "var_id": 2095,
    "kode_url": "MjA5NSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-umbi-umbian-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -834,6 +871,7 @@
    "var_id": 2096,
    "kode_url": "MjA5NiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -877,6 +915,7 @@
    "var_id": 2097,
    "kode_url": "MjA5NyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjA5NyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -920,6 +959,7 @@
    "var_id": 2099,
    "kode_url": "MjA5OSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjA5OSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -963,6 +1003,7 @@
    "var_id": 2100,
    "kode_url": "MjEwMCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1006,6 +1047,7 @@
    "var_id": 2101,
    "kode_url": "MjEwMSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMSMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-kacang-kacangan-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1053,6 +1095,7 @@
    "var_id": 2102,
    "kode_url": "MjEwMiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1096,6 +1139,7 @@
    "var_id": 2103,
    "kode_url": "MjEwMyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwMyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1143,6 +1187,7 @@
    "var_id": 2104,
    "kode_url": "MjEwNCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwNCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-bahan-minuman-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1190,6 +1235,7 @@
    "var_id": 2106,
    "kode_url": "MjEwNiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwNiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-bahan-makanan-lainnya-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1237,6 +1283,7 @@
    "var_id": 2107,
    "kode_url": "MjEwNyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwNyMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-makanan-dan-minuman-jadi-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1284,6 +1331,7 @@
    "var_id": 2550,
    "kode_url": "MjU1MCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota-komoditas-2025.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
    "file": [
@@ -1303,6 +1351,7 @@
    "var_id": 2552,
    "kode_url": "MjU1MiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota-komoditas-2025.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
    "file": [
@@ -1322,6 +1371,7 @@
    "var_id": 2554,
    "kode_url": "MjU1NCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota-komoditas-2025.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
    "file": [
@@ -1341,6 +1391,7 @@
    "var_id": 2556,
    "kode_url": "MjU1NiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NiMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota-komoditas-2025.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "Rincian komoditas versi 2025 (daftar komoditas Susenas 2025).",
    "file": [
@@ -1360,8 +1411,9 @@
    "var_id": 2558,
    "kode_url": "MjU1OCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1OCMy/rata-rata-konsumsi-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota-komoditas-2025.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2550, 2552, 2554, 2556); kepastian paling rendah, cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Konsumsi per kapita/Rata-rata Konsumsi Perkapita Seminggu Menurut Kelompok Buah-Buahan Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
@@ -1379,6 +1431,7 @@
    "var_id": 2109,
    "kode_url": "MjEwOSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEwOSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-padi-padian-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1426,6 +1479,7 @@
    "var_id": 2110,
    "kode_url": "MjExMCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExMCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-umbi-umbian-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1473,6 +1527,7 @@
    "var_id": 2111,
    "kode_url": "MjExMSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExMSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1516,6 +1571,7 @@
    "var_id": 2113,
    "kode_url": "MjExMyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExMyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1559,6 +1615,7 @@
    "var_id": 2115,
    "kode_url": "MjExNSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExNSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1602,6 +1659,7 @@
    "var_id": 2116,
    "kode_url": "MjExNiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExNiMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1645,8 +1703,9 @@
    "var_id": 2117,
    "kode_url": "MjExNyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExNyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-kacang-kacangan-per-kabupaten-kota.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari urutan seri konsumsi (sayur, kacang, buah, minyak) yang berpadanan dengan seri pengeluaran 2116 sampai 2119; cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Kacang-Kacangan Per Kabupaten_kota, 2018.xlsx",
@@ -1692,8 +1751,9 @@
    "var_id": 2118,
    "kode_url": "MjExOCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExOCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari urutan seri konsumsi (sayur, kacang, buah, minyak) yang berpadanan dengan seri pengeluaran 2116 sampai 2119; cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_kota, 2018.xlsx",
@@ -1735,6 +1795,7 @@
    "var_id": 2119,
    "kode_url": "MjExOSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjExOSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-minyak-dan-kelapa-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1782,6 +1843,7 @@
    "var_id": 2120,
    "kode_url": "MjEyMCMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEyMCMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-bahan-minuman-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1829,6 +1891,7 @@
    "var_id": 2122,
    "kode_url": "MjEyMiMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEyMiMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-bumbu-bumbuan-per-kabupaten-kota.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1876,8 +1939,9 @@
    "var_id": 2123,
    "kode_url": "MjEyMyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjEyMyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-makanan-minuman-jadi-per-kabupaten-kota.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari urutan seri konsumsi (sayur, kacang, buah, minyak) yang berpadanan dengan seri pengeluaran 2116 sampai 2119; cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Makanan Minuman Jadi Per Kabupaten_kota, 2018.xlsx",
@@ -1923,8 +1987,9 @@
    "var_id": 2551,
    "kode_url": "MjU1MSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-ikan-per-kabupaten-kota-komoditas-2025.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Ikan Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
@@ -1942,8 +2007,9 @@
    "var_id": 2553,
    "kode_url": "MjU1MyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1MyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-daging-per-kabupaten-kota-komoditas-2025.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Daging Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
@@ -1961,6 +2027,7 @@
    "var_id": 2555,
    "kode_url": "MjU1NSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-telur-dan-susu-per-kabupaten-kota-komoditas-2025.html",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "status": "terverifikasi",
    "catatan": "",
    "file": [
@@ -1980,8 +2047,9 @@
    "var_id": 2557,
    "kode_url": "MjU1NyMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1NyMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-sayur-sayuran-per-kabupaten-kota-komoditas-2025.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Sayur-Sayuran Per Kabupaten_Kota-Komoditas 2025, 2025.xlsx",
@@ -1999,8 +2067,9 @@
    "var_id": 2559,
    "kode_url": "MjU1OSMy",
    "url": "https://www.bps.go.id/id/statistics-table/2/MjU1OSMy/rata-rata-pengeluaran-perkapita-seminggu-menurut-kelompok-buah-buahan-per-kabupaten-kota-komoditas-2025.html",
-   "status": "pola",
-   "catatan": "Nomor ditarik dari pola pasangan konsumsi genap/pengeluaran ganjil (2554 konsumsi telur, 2555 pengeluaran telur); cek judul saat halaman dibuka.",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
+   "status": "terverifikasi",
+   "catatan": "Nomor tabel semula disimpulkan dari pola penomoran; judul halaman yang tampil saat dibuka di browser pada 24-11-2026 sama persis dengan judul tabel ini.",
    "file": [
     {
      "path": "Pengeluaran per kapita/Rata-rata Pengeluaran Perkapita Seminggu  Menurut Kelompok Buah-Buahan Per Kabupaten_Kota-Komoditas 2025.xlsx",
@@ -2017,6 +2086,7 @@
    "jenis": "Tabel Statistik (tabel per tahun, dipilih dengan parameter ?year=)",
    "var_id": null,
    "kode_url": "V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==",
+   "url_tabel_dinamis": "https://aceh.bps.go.id/id/query-builder",
    "url": "https://aceh.bps.go.id/id/statistics-table/3/V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==/tingkat-pengangguran-terbuka--tpt--dan-tingkat-partisipasi-angkatan-kerja--tpak--menurut-kabupaten-kota-di-provinsi-aceh.html?year=2025",
    "url_per_tahun": "https://aceh.bps.go.id/id/statistics-table/3/V2pOVWJWcHJURGg0U2pONFJYaExhVXB0TUhacVFUMDkjMw==/tingkat-pengangguran-terbuka--tpt--dan-tingkat-partisipasi-angkatan-kerja--tpak--menurut-kabupaten-kota-di-provinsi-aceh.html?year={tahun}",
    "status": "terverifikasi",

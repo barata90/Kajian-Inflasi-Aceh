@@ -117,6 +117,18 @@ def main() -> None:
     tabel = data["tabel"]
     n_file = sum(len(t["file"]) for t in tabel)
     ada_ss = {t["kode"] for t in tabel if (SS_DIR / f"{t['kode']}.png").exists()}
+    # Hasil mode manual ambil_screenshot.py: URL akhir yang dibuka pengguna menjadi URL persis sumber.
+    for t in tabel:
+        j = SS_DIR / f"{t['kode']}.json"
+        if j.exists():
+            info = json.loads(j.read_text())
+            t["_info"] = info
+            if info.get("mode") == "manual" and info.get("url_akhir"):
+                t["url"] = info["url_akhir"]
+                t["status"] = "terverifikasi"
+                t["catatan"] = (t.get("catatan", "") + " URL di atas direkam dari browser saat tabel dibuka "
+                                f"secara manual pada {info.get('waktu_akses', '')}; judul halaman: "
+                                f"{info.get('judul_halaman', '')}.").strip()
 
     doc = Document()
     sec = doc.sections[0]
@@ -148,28 +160,40 @@ def main() -> None:
         f"sehingga {n_file} file tersebut bermuara ke {len(tabel)} halaman sumber: tabel statistik BPS RI "
         f"(www.bps.go.id), tabel BPS Provinsi Aceh (aceh.bps.go.id), dan Portal Data DJPK Kementerian Keuangan "
         f"(djpk.kemenkeu.go.id). Pemasangan dilakukan dari judul tabel yang tercetak di baris pertama setiap file, "
-        f"lalu dicocokkan dengan judul halaman BPS yang terindeks mesin pencari. Untuk file DJPK, URL persis per "
-        f"baris sudah tersimpan di kolom url_sumber di dalam file itu sendiri.")
+        f"lalu dicocokkan dengan judul halaman BPS yang terindeks mesin pencari dan dengan judul halaman yang "
+        f"tampil saat setiap URL dibuka di browser. Untuk file DJPK, URL persis per baris sudah tersimpan di "
+        f"kolom url_sumber di dalam file itu sendiri.")
     doc.add_paragraph(
-        f"Status URL: {c['terverifikasi']} sumber ({fc['terverifikasi']} file) terverifikasi, "
-        f"{c['pola']} sumber ({fc['pola']} file) disimpulkan dari pola penomoran tabel BPS, dan "
-        f"{c['belum_ditemukan']} sumber ({fc['belum_ditemukan']} file) belum ditemukan URL persisnya. "
-        f"Tangkapan layar (screenshot) tersedia untuk {len(ada_ss)} dari {len(tabel)} sumber.")
+        "File BPS diunduh lewat fitur Tabel Dinamis (query builder) situs BPS Provinsi Aceh. Halaman itu dipakai "
+        "untuk memilih tabel dan tahun, sedangkan tautan permanen tiap tabel adalah halaman Tabel Statistik "
+        "pada baris URL. Keduanya dicantumkan di rincian per sumber.")
+    rincian = [f"{c['terverifikasi']} sumber ({fc['terverifikasi']} file) terverifikasi"]
+    if c["pola"]:
+        rincian.append(f"{c['pola']} sumber ({fc['pola']} file) disimpulkan dari pola penomoran tabel BPS")
+    if c["belum_ditemukan"]:
+        rincian.append(f"{c['belum_ditemukan']} sumber ({fc['belum_ditemukan']} file) belum ditemukan URL persisnya")
+    doc.add_paragraph(
+        "Status URL: " + (", ".join(rincian[:-1]) + ", dan " + rincian[-1] if len(rincian) > 1 else rincian[0])
+        + f". Tangkapan layar (screenshot) tersedia untuk {len(ada_ss)} dari {len(tabel)} sumber; "
+          "judul halaman yang tampil saat pemotretan tercantum di keterangan setiap gambar.")
 
     doc.add_heading("Cara membaca", 2)
-    for judul, isi in [
-        ("Terverifikasi", "nomor tabel di URL dan judul halamannya muncul berpasangan di hasil mesin pencari, "
-                          "dan judul itu sama dengan judul di dalam file."),
-        ("Disimpulkan dari pola", "BPS memberi nomor berurutan untuk satu seri tabel. Contoh: IHK menurut kelompok "
-                                  "01 sampai 11 bernomor 2212 sampai 2222, dan lima titik di antaranya sudah "
-                                  "terverifikasi. Nomor yang belum terindeks diisi mengikuti urutan itu, sehingga "
-                                  "judul halaman tetap perlu dicek saat dibuka."),
+    butir = [
+        ("Terverifikasi", "nomor tabel di URL cocok dengan judul tabel, dibuktikan oleh hasil mesin pencari "
+                          "dan/atau oleh judul halaman yang tampil saat URL dibuka di browser."),
+    ]
+    if c["pola"]:
+        butir.append(("Disimpulkan dari pola", "BPS memberi nomor berurutan untuk satu seri tabel. Nomor yang "
+                                               "belum terindeks diisi mengikuti urutan itu, sehingga judul "
+                                               "halaman tetap perlu dicek saat dibuka."))
+    butir += [
         ("Kode di URL", "bagian seperti MjIxMiMy adalah base64 dari \"2212#2\" (nomor tabel #2 = tabel dinamis). "
                         "Teks setelah kode hanya hiasan; BPS membuka tabel berdasarkan kode."),
         ("Memilih tahun", "tabel dinamis BPS menampilkan tahun terbaru. File berakhiran \", 2018\" dan seterusnya "
-                          "diperoleh dengan memilih tahun itu pada pemilih tahun di halaman yang sama. Tabel TPT "
-                          "Aceh memakai parameter ?year= di URL."),
-    ]:
+                          "diperoleh dengan memilih tahun itu pada pemilih tahun di halaman yang sama, atau di "
+                          "Tabel Dinamis. Tabel TPT Aceh memakai parameter ?year= di URL."),
+    ]
+    for judul, isi in butir:
         p = doc.add_paragraph(style="List Bullet")
         p.add_run(judul + ": ").bold = True
         p.add_run(isi)
@@ -209,6 +233,11 @@ def main() -> None:
             ("URL", None),
             ("Status URL", LABEL_STATUS[s["status"]]),
         ]
+        if s.get("url_tabel_dinamis"):
+            baris.append(("Tabel Dinamis (tempat unduh)", s["url_tabel_dinamis"]))
+            baris.append(("Langkah di Tabel Dinamis",
+                          "Pilih Tabel/Indikator dengan judul di atas, centang tahun yang tercantum di baris "
+                          "\"Tahun yang diunduh\", tampilkan, lalu unduh sebagai Excel."))
         if s.get("url_per_tahun"):
             baris.append(("URL per tahun", s["url_per_tahun"].replace("{tahun}", "<tahun>")))
         if s.get("url_dasar"):
@@ -254,6 +283,10 @@ def main() -> None:
             cap.alignment = WD_ALIGN_PARAGRAPH.CENTER
             rr = cap.add_run(f"Tampilan halaman sumber {s['kode']}. {ket}")
             rr.italic, rr.font.size = True, Pt(8.5)
+            if s.get("_info") and s["_info"].get("judul_cocok") is False:
+                rw = cap.add_run(" Peringatan: judul halaman tidak sama dengan judul tabel, periksa URL ini.")
+                rw.bold, rw.font.size = True, Pt(8.5)
+                rw.font.color.rgb = RGBColor.from_string("B3261E")
         else:
             kotak(cap)
             rr = cap.add_run(f"Screenshot {s['kode']} belum tersedia. ")
@@ -269,8 +302,11 @@ def main() -> None:
         "Dari folder sumber_dataset, jalankan: python ambil_screenshot.py",
         "Jendela Chromium terbuka. Bila muncul verifikasi Cloudflare BPS, selesaikan secara manual; skrip menunggu "
         "sampai tabel tampil, menyimpan ss/<kode>.png, lalu menyusun ulang dokumen ini.",
-        "Untuk sumber berstatus \"disimpulkan dari pola\", skrip mencatat judul halaman yang tampil ke ss/<kode>.txt, "
-        "sehingga kecocokan judul dapat diperiksa di keterangan gambar.",
+        "Skrip mencatat judul halaman yang tampil dan kecocokannya dengan judul tabel ke ss/<kode>.json, serta "
+        "ringkasan semua sumber ke ss/laporan_screenshot.csv.",
+        "Untuk tabel yang URL-nya belum diketahui, jalankan: python ambil_screenshot.py --manual <KODE>. "
+        "Buka tabelnya sendiri di jendela browser, lalu tekan Enter di terminal; URL akhir ikut direkam dan "
+        "dipakai sebagai URL sumber di dokumen ini.",
     ]:
         doc.add_paragraph(langkah, style="List Number")
 
